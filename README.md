@@ -58,5 +58,16 @@ gi.r{hyz-xx.
 Libro: Como programar en java 7ma edicion
 
 #Resultados
+
+
+
+
 ![the game 2](https://user-images.githubusercontent.com/71461619/96178381-f038de80-0ef4-11eb-866d-c71c9b2e5063.PNG)
+
+
+
+
+
+
+
 ![the game](https://user-images.githubusercontent.com/71461619/96177805-0befb500-0ef4-11eb-98da-f536f0b056bb.PNG)
